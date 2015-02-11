@@ -1,0 +1,3 @@
+[submodule "jsonviewer"]
+	path = jsonviewer
+	url = https://github.com/daniyalzade/jsonviewer
